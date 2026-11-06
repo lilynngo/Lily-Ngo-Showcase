@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.coverage
+htmlcov/
+
+# Large simulation outputs are reproducible and do not belong in source control.
+results/
+generated_reports/
+*.xlsx
+*.xls
+
+.DS_Store

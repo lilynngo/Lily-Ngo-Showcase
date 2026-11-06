@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "pawn",
+    "type": "commoner",
+    "cost": 10,
+    "movement": "pawn",
+    "traits": [],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 2,
+    "name": "knight",
+    "type": "noble",
+    "cost": 30,
+    "movement": "knight",
+    "traits": [],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 3,
+    "name": "bishop",
+    "type": "noble",
+    "cost": 30,
+    "movement": "bishop",
+    "traits": [],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 4,
+    "name": "rook",
+    "type": "noble",
+    "cost": 50,
+    "movement": "rook",
+    "traits": [],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 5,
+    "name": "queen",
+    "type": "noble",
+    "cost": 100,
+    "movement": "queen",
+    "traits": [],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 6,
+    "name": "king",
+    "type": "noble",
+    "cost": 0,
+    "movement": "king",
+    "traits": ["king_status"],
+    "drawbacks": [],
+    "is_king_status": true
+  },
+  {
+    "id": 7,
+    "name": "squire",
+    "type": "commoner",
+    "cost": 0,
+    "movement": "squire",
+    "traits": [],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 8,
+    "name": "shield bearer",
+    "type": "commoner",
+    "cost": 0,
+    "movement": "shield_bearer",
+    "traits": ["shield"],
+    "drawbacks": ["cannot_capture"],
+    "is_king_status": false
+  },
+  {
+    "id": 9,
+    "name": "peasant",
+    "type": "commoner",
+    "cost": 0,
+    "movement": "peasant",
+    "traits": [],
+    "drawbacks": ["no_promotion"],
+    "is_king_status": false
+  },
+  {
+    "id": 10,
+    "name": "adept",
+    "type": "commoner",
+    "cost": 0,
+    "movement": "adept",
+    "traits": ["swap"],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 11,
+    "name": "mule",
+    "type": "noble",
+    "cost": 0,
+    "movement": "mule",
+    "traits": [],
+    "drawbacks": ["stubborn"],
+    "is_king_status": false
+  },
+  {
+    "id": 12,
+    "name": "wild stallion",
+    "type": "both",
+    "cost": 0,
+    "movement": "wild_stallion",
+    "traits": ["leap"],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 13,
+    "name": "clergy riders",
+    "type": "noble",
+    "cost": 0,
+    "movement": "clergy_riders",
+    "traits": ["leap"],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 14,
+    "name": "lance rider",
+    "type": "noble",
+    "cost": 0,
+    "movement": "lance_rider",
+    "traits": ["leap"],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 15,
+    "name": "pegasus",
+    "type": "noble",
+    "cost": 0,
+    "movement": "pegasus",
+    "traits": ["swap", "leap"],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 16,
+    "name": "high priest",
+    "type": "noble",
+    "cost": 0,
+    "movement": "high_priest",
+    "traits": [],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 17,
+    "name": "corrupted abbot",
+    "type": "noble",
+    "cost": 0,
+    "movement": "corrupted_abbot",
+    "traits": ["opponent_controlled"],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 18,
+    "name": "arcane priest",
+    "type": "noble",
+    "cost": 0,
+    "movement": "arcane_priest",
+    "traits": ["swap"],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 19,
+    "name": "damaged chariot",
+    "type": "noble",
+    "cost": 0,
+    "movement": "damaged_chariot",
+    "traits": [],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 20,
+    "name": "fast chariot",
+    "type": "noble",
+    "cost": 0,
+    "movement": "fast_chariot",
+    "traits": ["leap"],
+    "drawbacks": ["cannot_capture_after_leap"],
+    "is_king_status": false
+  },
+  {
+    "id": 21,
+    "name": "armored chariot",
+    "type": "noble",
+    "cost": 0,
+    "movement": "armored_chariot",
+    "traits": ["shield"],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 22,
+    "name": "arcane tower",
+    "type": "noble",
+    "cost": 0,
+    "movement": "arcane_tower",
+    "traits": ["swap"],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 23,
+    "name": "sorceress",
+    "type": "noble",
+    "cost": 0,
+    "movement": "sorceress",
+    "traits": ["swap"],
+    "drawbacks": [],
+    "is_king_status": false
+  }, 
+  {
+    "id": 24,
+    "name": "joan of arc",
+    "type": "noble",
+    "cost": 0,
+    "movement": "joan_of_arc",
+    "traits": ["shield"],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 25,
+    "name": "queen of air",
+    "type": "noble",
+    "cost": 0,
+    "movement": "queen_of_air",
+    "traits": ["white_square_start", "white_square_only"],
+    "drawbacks": [],
+    "is_king_status": false
+  },
+  {
+    "id": 26,
+    "name": "queen of darkness",
+    "type": "noble",
+    "cost": 0,
+    "movement": "queen_of_darkness",
+    "traits": ["black_square_start", "black_square_only"],
+    "drawbacks": [],
+    "is_king_status": false
+  }, 
+  {
+    "id": 27,
+    "name": "the old queen",
+    "type": "noble",
+    "cost": 0,
+    "movement": "the_old_queen",
+    "traits": [],
+    "drawbacks": [],
+    "is_king_status": true
+  }
+]

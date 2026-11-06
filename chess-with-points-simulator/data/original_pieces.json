@@ -1,0 +1,33 @@
+{
+  "base_costs": {
+    "pawn": 10,
+    "knight": 30,
+    "bishop": 30,
+    "rook": 50,
+    "queen": 100,
+    "king": 0
+  },
+  {
+  "replacements": {
+    "arcane tower": ["rook"],
+    "queen of darkness": ["queen", "rook", "bishop"],
+    "damaged chariot": ["rook"],
+    "fast chariot": ["rook"],
+    "armored chariot": ["rook"],
+    "arcane priest": ["bishop"],
+    "high priest": ["bishop"],
+    "clergy riders": ["bishop"],
+    "wild stallion": ["knight", "pawn"],
+    "lance rider": ["knight"],
+    "pegasus": ["knight"],
+    "squire": ["pawn"],
+    "shield bearer": ["pawn"],
+    "peasant": ["pawn"],
+    "adept": ["pawn"],
+    "mule": ["pawn"],
+    "sorceress": ["queen"],
+    "joan of arc": ["queen"],
+    "queen of air": ["queen", "rook", "bishop"],
+    "the old queen": ["queen"]
+  }
+}

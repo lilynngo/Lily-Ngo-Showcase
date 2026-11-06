@@ -1,0 +1,6 @@
+pytest
+xlsxwriter
+pandas
+openpyxl
+matplotlib
+numpy
