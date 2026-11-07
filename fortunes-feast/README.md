@@ -8,8 +8,6 @@
   Godot · GDScript · Character Interaction · UI Programming
 </p><p align="center">
   <a href="https://sleepypuppystudios.itch.io/fortunes-feast"><strong>🎮 PLAY THE GAME ON ITCH.IO</strong></a>
-  ·
-  <a href="https://lily-ngo.com/feast.html">Portfolio Case Study</a>
 </p>
 
 *Fortune's Feast* is a narrative deduction and menu-building game set in a royal court. As the palace chef, players investigate guests' preferences and relationships, choose dishes for a banquet, and discover how their decisions shape each night's reception and the final newspaper ending.
@@ -18,7 +16,7 @@ Created with **Sleepy Puppy Studios** as part of the **University of Washington 
 
 ## My contributions
 
-I worked across **art direction, 2D character and environment art, technical art, and programming**. My technical responsibilities included building character-presentation and interaction systems, integrating character assets into Godot, and implementing selected UI, scoring feedback, and narrative presentation features.
+I worked across **art direction, 2D character and environment art, technical art, and programming**. My technical responsibilities included building character-presentation and interaction systems, integrating character assets into Godot, and implementing the UI, scoring feedback, and narrative presentation features.
 
 This was a **team project**. The game scripts featured in this showcase and the custom application code in my standalone Technical Demo were authored by me; other game systems and some environment scene-dressing work were collaborative or developed by teammates.
 
