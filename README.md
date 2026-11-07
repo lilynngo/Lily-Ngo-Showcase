@@ -16,7 +16,7 @@ For my background, professional work, and full project portfolio, visit **[lily-
 
 A narrative deduction game where players investigate a royal court's preferences and relationships to plan a three-course banquet. Working with **Sleepy Puppy Studios**, I contributed art direction, character and environment art, technical art, and programming. This showcase highlights the character-interaction architecture I developed and the standalone Godot Technical Demo I built to validate artwork and environments before final production.
 
-**Explore:** [Play the game](https://sleepypuppystudios.itch.io/fortunes-feast) · [Character systems](./fortunes-feast/docs/character-interaction.md) · [Selected GDScript](https://github.com/lilynngo/Lily-Ngo-Showcase/tree/main/fortunes-feast/code/character-system) · [Art-to-engine pipeline](./fortunes-feast/docs/art-to-engine-pipeline.md)
+**Explore:** [Play the game](https://sleepypuppystudios.itch.io/fortunes-feast) · [Character systems](./fortunes-feast/docs/character-interaction.md) · [Selected GDScript](https://github.com/lilynngo/Lily-Ngo-Showcase/tree/main/fortunes-feast/src/character-system) · [Art-to-engine pipeline](./fortunes-feast/docs/art-to-engine-pipeline.md)
 
 ### [Chess with Points Simulator](https://github.com/lilynngo/Lily-Ngo-Showcase/tree/main/chess-with-points-simulator)
 
@@ -33,6 +33,14 @@ A two-week game-design assignment that became a simulation framework for evaluat
 A single-player exploration game in which players discover and capture creatures, collect clues and rewards, and unlock new areas. As the sole programmer, I implemented the interactions connecting creature behavior, animation, collectibles, progression, and saved game state.
 
 **Explore:** [Curated source code](https://github.com/lilynngo/Lily-Ngo-Showcase/tree/main/lock-in-gamers-mafia-adventure/src) · [Gameplay architecture](./lock-in-gamers-mafia-adventure/docs/architecture.md)
+
+### [Light the Way](https://github.com/lilynngo/Lily-Ngo-Showcase/tree/main/light-the-way)
+
+**Ren'Py · Python · Progression systems · Unlockable galleries · Developer enablement**
+
+A branching visual novel developed with **Simporiem Studios**. As lead programmer, I implemented shared progression, achievement, gallery, and UI systems across multiple story routes. I also created example scripts and recorded demonstrations to help teammates integrate features, while supporting GitHub onboarding, pull requests, and code reviews.
+
+**Explore:** [Get the game](https://simporiem-studios.itch.io/light-the-way) · [Progression & gallery architecture](./light-the-way/docs/progression-and-gallery.md) · [Developer enablement](./light-the-way/docs/developer-enablement.md) · [Curated Ren'Py code](https://github.com/lilynngo/Lily-Ngo-Showcase/tree/main/light-the-way/code)
 
 ## About the code
 
