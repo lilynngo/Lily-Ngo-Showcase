@@ -32,7 +32,7 @@ A two-week game-design assignment that became a simulation framework for evaluat
 
 A single-player exploration game in which players discover and capture creatures, collect clues and rewards, and unlock new areas. As the sole programmer, I implemented the interactions connecting creature behavior, animation, collectibles, progression, and saved game state.
 
-**Explore:** [Curated source code](https://github.com/lilynngo/Lily-Ngo-Showcase/tree/main/lock-in-gamers-mafia-adventure/src) · [Gameplay architecture](./lock-in-gamers-mafia-adventure/docs/architecture.md)
+**Explore:** [Play the game](https://hacstudios.itch.io/lock-in-gamers-mafia-adventure) · [Curated source code](https://github.com/lilynngo/Lily-Ngo-Showcase/tree/main/lock-in-gamers-mafia-adventure/src) · [Gameplay architecture](./lock-in-gamers-mafia-adventure/docs/architecture.md)
 
 ### [Light the Way](https://github.com/lilynngo/Lily-Ngo-Showcase/tree/main/light-the-way)
 
@@ -40,7 +40,7 @@ A single-player exploration game in which players discover and capture creatures
 
 A branching visual novel developed with **Simporiem Studios**. As lead programmer, I implemented shared progression, achievement, gallery, and UI systems across multiple story routes. I also created example scripts and recorded demonstrations to help teammates integrate features, while supporting GitHub onboarding, pull requests, and code reviews.
 
-**Explore:** [Get the game](https://simporiem-studios.itch.io/light-the-way) · [Progression & gallery architecture](./light-the-way/docs/progression-and-gallery.md) · [Developer enablement](./light-the-way/docs/developer-enablement.md) · [Curated Ren'Py code](https://github.com/lilynngo/Lily-Ngo-Showcase/tree/main/light-the-way/code)
+**Explore:** [Play the game](https://simporiem-studios.itch.io/light-the-way) · [Progression & gallery architecture](./light-the-way/docs/progression-and-gallery.md) · [Developer enablement](./light-the-way/docs/developer-enablement.md) · [Curated Ren'Py code](https://github.com/lilynngo/Lily-Ngo-Showcase/tree/main/light-the-way/code)
 
 ## About the code
 
